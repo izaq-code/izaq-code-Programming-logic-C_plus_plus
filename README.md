@@ -1,6 +1,3 @@
-Claro, vou ajudar a criar um README básico para suas pastas de exercícios e projetos em C++:
-
----
 
 # Repositório de Exercícios e Projetos em C++
 
@@ -20,7 +17,3 @@ Esta pasta contém um projeto específico de um Sistema de Controle de Vendas im
 
 ## LP - Lógica de Programação
 Nesta pasta, você encontrará materiais gerais relacionados ao estudo de lógica de programação, não necessariamente limitados à linguagem C++. Isso pode incluir exercícios, teoria, e outros recursos úteis para aprimorar suas habilidades de programação.
-
----
-
-Este README pode ser personalizado conforme necessário, adicionando mais detalhes sobre os projetos específicos ou incluindo instruções sobre como executar ou compilar os programas, dependendo das necessidades do seu repositório.
